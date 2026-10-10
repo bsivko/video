@@ -1,0 +1,5 @@
+**/*.mp4
+.idea
+web/node_modules
+web/dist
+temp/
